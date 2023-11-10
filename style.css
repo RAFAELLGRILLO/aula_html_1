@@ -1,0 +1,27 @@
+
+
+
+h1 {
+    text-align: center 
+}
+.titulo menos {
+
+    font-size: 22px;
+}
+
+#titulo unico {
+
+    color: rgb(43, 64, 6);
+}
+
+img {
+
+width: 200px; 
+height: 198px; 
+}
+
+
+img:hover{
+    cursor:crosshair;
+}
+
